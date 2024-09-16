@@ -1,0 +1,170 @@
+vagrant status
+vagrant ssh
+pwd
+echo $HOME
+ls
+ls -l
+ls -ls
+ls -la
+ssh-keygen -t ed25519
+ls
+cd .ssh
+ls -l
+ls
+cd ..
+ssh-keygen -t ed25519
+cd .ssh
+ls
+cat id_ed25519.pub
+cd .ssh
+cd ..
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:Mantecol202/repo_corbetto.git
+ls 
+ls -l
+cd ..
+ls -l
+cd repogit
+ls
+cd repo_corbetto
+echo "hola"
+ls -l
+cat hola.txt
+echo "hola" > hola.txt
+ls -l
+git status
+git add . 
+git status
+-m "agrego hola"
+git status
+on branch main
+git push
+token
+git push
+tokens
+cd .. 
+ls -l
+cd repo_corbetto
+git psuh
+git push
+git log
+cd ..
+git push
+.git push
+cd repo_corbetto
+.git push
+cd ..
+echo "hola chicos"
+history
+echo "hola" > buenas.txt
+ls
+cd ..
+exit
+ls
+.git push
+git add
+.git add
+exit
+ls -l
+cd repogit
+ls -l
+cd repo_corbetto
+ls -l
+echo "hola"
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git statu
+git status
+git add .
+ls -l
+git status
+git push
+git push -u origin main
+git push
+cd ..
+cd TP-AySO
+ssh-keygen
+ls -l
+cat $HOME/.ssh/*.pub
+cd ..
+ls -l
+rm -r TP-AySO
+y
+ls -l
+ssh-keygen
+git clone git clone git@github.com:Mantecol202/TP_AySO.git
+git clone git@github.com:Mantecol202/TP_AySO.git
+ssh-keygen
+ls -l
+cd TP_AySO
+ssh-keygen
+openssh
+key
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd ..
+mkdir repogit
+cd ..
+ls -l
+$home
+cd ..
+ls -l
+mkdir "repogit"
+sudo mkdir "repogit"
+ls -l
+ls -ld
+$HOME/repogit/
+"$HOME/repogit/"
+cd repogit
+git clone git@github.com:Mantecol202/TP_AySO.git
+cd ..
+ls -l
+cd ..
+ls -l
+ls
+cd ..
+ls -l
+"$HOME/repogit/"
+cd repogit
+cd /HOME$
+$home
+$HOME
+"$HOME$
+LS -L
+ls -l
+cd ..
+git statu
+ls -l
+cd repogit
+ls -l
+cd TP_AySO/
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net 
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+ls -l
+cat <<EOT >> README.md
+Alumno: <Tu-Nombre>
+División: <Tu-División>
+Turno: <Turno>
+EOT
+
+git add README.md
+git commit -m "UPDATE: Información del Alumno en README.md"
+ls -l
+nano README.md
+ls -l
+cat <<FIN>> README.md
+
+mateo corbetto
+115-2
+mañana
+FIN
+
+nano README.md 
